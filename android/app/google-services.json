@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51293967012",
+    "project_id": "gravon-8d6fc",
+    "storage_bucket": "gravon-8d6fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51293967012:android:ce56472290b43028ab8c31",
+        "android_client_info": {
+          "package_name": "com.example.gravon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3BCCKdV8X8d4PALPof1nzAovzMlybRqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
